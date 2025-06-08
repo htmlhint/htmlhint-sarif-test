@@ -1,0 +1,20 @@
+{
+  "name": "htmlhint-sarif-test",
+  "version": "0.0.0",
+  "private": true,
+  "description": "test sarif output for htmlhint",
+  "homepage": "https://htmlhint.com",
+  "license": "MIT",
+  "scripts": {
+    "astro": "astro"
+  },
+  "dependencies": {
+    "htmlhint": "^1.5.1"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "volta": {
+    "node": "20.19.2"
+  }
+}
